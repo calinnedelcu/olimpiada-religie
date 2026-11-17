@@ -186,7 +186,7 @@ teme: [
       "Moartea este despărțirea sufletului de trup. Nu a fost voită de Dumnezeu: a intrat în lume prin păcat <span class='ref'>(Romani 5, 12)</span>. „Dumnezeu n-a făcut moartea” <span class='ref'>(Înțelepciunea lui Solomon 1, 13)</span>.",
       "De aceea creștinul nu vede moartea ca pe ceva firesc sau ca pe o eliberare a sufletului din trup, ci ca pe un dușman biruit de Hristos: „cu moartea pe moarte călcând”. Trupul este bun și este chemat la înviere."]},
     {h:"2. Învierea lui Hristos, temelia învierii noastre", p:[
-      "„Dacă Hristos n-a înviat, zadarnică este credința voastră” <span class='ref'>(1 Corinteni 15, 14-17)</span>. Hristos este „pârga celor adormiți” <span class='ref'>(1 Corinteni 15, 20-23)</span>: primul rod, după care vine toată recolta. „Precum în Adam toți mor, așa și în Hristos toți vor învia.”",
+      "„Dacă Hristos n-a înviat, zadarnică este credința voastră” <span class='ref'>(1 Corinteni 15, 17)</span>. Hristos este „pârga celor adormiți” <span class='ref'>(1 Corinteni 15, 20-23)</span>: primul rod, după care vine toată recolta. „Precum în Adam toți mor, așa și în Hristos toți vor învia.”",
       "Învierea Lui nu a fost o simplă revenire la viața dinainte. Trupul Său înviat este același (poartă semnele cuielor, mănâncă cu ucenicii), dar slăvit: intră prin ușile încuiate și nu mai moare."]},
     {h:"3. Judecata particulară", p:[
       "Are loc îndată după moarte, pentru fiecare suflet în parte: „Este rânduit oamenilor o dată să moară, iar după aceea să fie judecata” <span class='ref'>(Evrei 9, 27)</span>. Temeiuri: pilda bogatului nemilostiv și a săracului Lazăr <span class='ref'>(Luca 16, 19-31)</span> și cuvântul către tâlhar, „astăzi vei fi cu Mine în rai” <span class='ref'>(Luca 23, 43)</span>.",
@@ -199,7 +199,7 @@ teme: [
       "Cele patru însușiri ale trupului înviat <span class='ref'>(1 Corinteni 15, 42-44)</span>: <b>nestricăcios</b>, <b>slăvit</b>, <b>puternic</b>, <b>duhovnicesc</b>. Este același trup, nu altul, dar transfigurat, ca bobul de grâu care moare și răsare <span class='ref'>(1 Corinteni 15, 36-38)</span>.",
       "Adam și Hristos <span class='ref'>(1 Corinteni 15, 45-49)</span>: Adam cel dintâi, „suflet viu”, a primit viața și ne-a lăsat moștenire moartea. Hristos, Adam cel de pe urmă, „duh dătător de viață”, dăruiește viața. Am purtat chipul celui pământesc; vom purta chipul Celui ceresc."]},
     {h:"6. Judecata universală", p:[
-      "<span class='ref'>Matei 25, 31-46</span>: Fiul Omului vine întru slavă, adună toate neamurile și desparte oile de capre. Criteriul este iubirea arătată aproapelui: „întrucât ați făcut unuia dintre acești frați ai Mei prea mici, Mie Mi-ați făcut.”",
+      "<span class='ref'>Matei 25, 31-46</span>: Fiul Omului vine întru slavă, adună toate neamurile și desparte oile de capre. Criteriul este iubirea arătată aproapelui: „întrucât ați făcut unuia dintr-acești frați ai Mei, prea mici, Mie Mi-ați făcut.”",
       "Față de judecata particulară: este publică, îi privește pe toți, are loc după înviere, deci cu trupul, și este definitivă. Sfântul Ioan Damaschin dă și un argument de dreptate: trupul a lucrat împreună cu sufletul binele sau răul, deci trebuie să primească împreună cu el răsplata."]},
     {h:"7. Viața veșnică", p:[
       "„Aceasta este viața veșnică: să Te cunoască pe Tine, singurul Dumnezeu adevărat, și pe Iisus Hristos pe Care L-ai trimis” <span class='ref'>(Ioan 17, 3)</span>. Este comuniune cu Sfânta Treime, începută deja în Biserică și împlinită în Împărăție. „Și va șterge orice lacrimă din ochii lor și moarte nu va mai fi” <span class='ref'>(Apocalipsa 21, 4)</span>.",
@@ -258,10 +258,10 @@ teme: [
   pe_scurt:"Biserica îi cuprinde și pe cei vii, și pe cei adormiți. Pentru că starea sufletelor după judecata particulară nu este încă definitivă, iar iubirea nu se oprește la moarte, Biserica se roagă pentru cei plecați, îi pomenește la Liturghie și face milostenie în numele lor.",
   lectie:[
     {h:"De ce ne rugăm pentru cei adormiți", p:[
-      "Dumnezeu „nu este al morților, ci al viilor, căci toți trăiesc în El” <span class='ref'>(Luca 20, 38)</span>. „Dragostea nu cade niciodată” <span class='ref'>(1 Corinteni 13, 8)</span>. Cei adormiți rămân mădulare ale Bisericii.",
+      "„Dumnezeu deci nu este Dumnezeu al morților, ci al viilor, căci toți trăiesc în El” <span class='ref'>(Luca 20, 38)</span>. „Dragostea nu cade niciodată” <span class='ref'>(1 Corinteni 13, 8)</span>. Cei adormiți rămân mădulare ale Bisericii.",
       "Până la judecata universală, starea sufletelor este provizorie (vezi tema 1). De aceea rugăciunea Bisericii le poate fi de folos. Ortodoxia nu învață purgatoriul."]},
     {h:"Temeiuri în Scriptură", p:[
-      "<span class='ref'>2 Macabei 12, 42-45</span>: Iuda Macabeul aduce jertfă pentru ostașii căzuți. <span class='ref'>Iacov 5, 16</span>: „rugați-vă unul pentru altul”. <span class='ref'>2 Timotei 1, 16-18</span>: Sfântul Pavel se roagă pentru Onisifor. <span class='ref'>1 Tesaloniceni 4, 13</span>: să nu ne întristăm „ca ceilalți, care nu au nădejde”."]},
+      "<span class='ref'>2 Macabei 12, 42-45</span>: Iuda Macabeul aduce jertfă pentru ostașii căzuți. <span class='ref'>Iacov 5, 16</span>: „vă rugați unul pentru altul”. <span class='ref'>2 Timotei 1, 16-18</span>: Sfântul Pavel se roagă pentru Onisifor. <span class='ref'>1 Tesaloniceni 4, 13</span>: să nu ne întristăm „ca ceilalți, care nu au nădejde”."]},
     {h:"Cum se roagă Biserica", p:[
       "Slujba înmormântării; parastasul; pomenirile la 3, 9 și 40 de zile, la 6 luni, la un an și apoi anual, de obicei până la 7 ani.",
       "Pomenirea la Sfânta Liturghie, cea mai importantă: la Proscomidie se scot părticele (miride) pentru cei adormiți.",
@@ -290,7 +290,7 @@ teme: [
   pe_scurt:"Viața este darul lui Dumnezeu, iar omul este chipul Lui. De aici vine demnitatea fiecărui om și datoria de a apăra viața, a ta și a celuilalt, trupească și sufletească. Tinerii o apără prin felul în care trăiesc și prin implicare.",
   lectie:[
     {h:"Viața, dar al lui Dumnezeu", p:[
-      "Omul e creat „după chipul lui Dumnezeu” <span class='ref'>(Facerea 1, 26-27)</span> și a primit suflare de viață <span class='ref'>(Facerea 2, 7)</span>. Porunca a șasea: „Să nu ucizi” <span class='ref'>(Ieșirea 20, 13)</span>. Trupul este „templu al Duhului Sfânt” <span class='ref'>(1 Corinteni 6, 19-20)</span>. „Eu am venit ca viață să aibă și din belșug să aibă” <span class='ref'>(Ioan 10, 10)</span>.",
+      "Omul e creat „după chipul lui Dumnezeu” <span class='ref'>(Facerea 1, 26-27)</span> și a primit suflare de viață <span class='ref'>(Facerea 2, 7)</span>. Porunca a șasea: „Să nu ucizi!” <span class='ref'>(Ieșirea 20, 13)</span>. Trupul este „templu al Duhului Sfânt” <span class='ref'>(1 Corinteni 6, 19-20)</span>. „Eu am venit ca viață să aibă și din belșug să aibă” <span class='ref'>(Ioan 10, 10)</span>.",
       "Omul nu este stăpânul vieții, ci cel căruia i-a fost încredințată."]},
     {h:"Violența", p:[
       "Hristos merge la rădăcină: și mânia și cuvântul care rănește sunt judecate <span class='ref'>(Matei 5, 21-22)</span>. „Fericiți făcătorii de pace” <span class='ref'>(Matei 5, 9)</span>. „Iubiți pe vrăjmașii voștri” <span class='ref'>(Matei 5, 44)</span>. „Biruiește răul cu binele” <span class='ref'>(Romani 12, 21)</span>. Aici intră și violența verbală, hărțuirea și cea din mediul online."]},
@@ -306,7 +306,7 @@ teme: [
   ],
   biblice:[
     ["Facerea 1, 26-27", "Omul este creat după chipul și asemănarea lui Dumnezeu."],
-    ["Ieșirea 20, 13", "Să nu ucizi.", "q"],
+    ["Ieșirea 20, 13", "Să nu ucizi!", "q"],
     ["1 Corinteni 6, 19-20", "Sfântul Pavel numește trupul templu al Duhului Sfânt."],
     ["Ioan 10, 10", "Hristos a venit ca oamenii să aibă viață din belșug."],
     ["Matei 5, 9; 21-22; 44", "Fericirea făcătorilor de pace, judecata mâniei, iubirea vrăjmașilor."],
@@ -343,9 +343,9 @@ teme: [
   ],
   biblice:[
     ["3 Regi 6, 14-37", "Solomon zidește templul și îl împodobește cu aur (textul din subiectul din 2024)."],
-    ["Ieșirea 25, 8", "Să-Mi facă locaș sfânt și voi locui în mijlocul lor.", "q"],
+    ["Ieșirea 25, 8", "Din acestea să-Mi faci locaș sfânt și voi locui în mijlocul lor.", "q"],
     ["Psalmul 25, 8", "Doamne, iubit-am bunăcuviința casei Tale și locul locașului slavei Tale.", "q"],
-    ["Matei 21, 13", "Casa Mea casă de rugăciune se va chema.", "q"]
+    ["Matei 21, 13", "Casa Mea, casă de rugăciune se va chema.", "q"]
   ],
   parinti:[],
   termeni:[["Pronaos, naos, altar","Cele trei părți ale bisericii ortodoxe."],["Catapeteasmă (iconostas)","Peretele de icoane dintre naos și altar."],["Pantocrator","Hristos „Atotțiitorul”, pictat în cupolă."],["Stil brâncovenesc","Sinteză românească de la 1700: pridvor cu coloane, ornament sculptat bogat."],["Frescă","Pictură pe tencuială udă."]],
@@ -447,7 +447,7 @@ teme: [
   biblice:[
     ["Efeseni 4, 5", "Unitatea credinței: „un Domn, o credință, un botez”."],
     ["Ioan 17, 21", "Rugăciunea lui Hristos pentru unitatea ucenicilor: „ca toți să fie una”."],
-    ["Matei 16, 18", "Pe această piatră voi zidi Biserica Mea și porțile iadului nu o vor birui.", "q"],
+    ["Matei 16, 18", "(...) pe această piatră voi zidi Biserica Mea și porțile iadului nu o vor birui.", "q"],
     ["2 Tesaloniceni 2, 15", "Îndemnul de a ține „predaniile”, scrise și nescrise: temeiul Sfintei Tradiții."]
   ],
   parinti:[],

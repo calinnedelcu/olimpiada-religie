@@ -206,28 +206,29 @@ teme: [
       "Raiul are „multe locașuri” <span class='ref'>(Ioan 14, 2)</span>, adică trepte ale fericirii. Iadul este lipsa comuniunii cu Dumnezeu. Creația întreagă va fi înnoită, nu nimicită: „cer nou și pământ nou” <span class='ref'>(Apocalipsa 21, 1)</span>."]}
   ],
   biblice:[
-    ["1 Corinteni 15, 14","Dacă Hristos n-a înviat, zadarnică este propovăduirea și credința."],
-    ["1 Corinteni 15, 20-22","Hristos, pârga celor adormiți; în Adam toți mor, în Hristos toți vor învia."],
-    ["1 Corinteni 15, 42-44","Cele patru însușiri ale trupului înviat."],
-    ["1 Corinteni 15, 45","Adam cel dintâi, suflet viu; Adam cel de pe urmă, duh dătător de viață."],
-    ["1 Corinteni 15, 51-53","Toți ne vom schimba, la trâmbița cea de apoi."],
-    ["Ioan 5, 28-29","Toți cei din morminte vor auzi glasul Lui: învierea vieții și învierea osândirii."],
-    ["Ioan 11, 25","„Eu sunt Învierea și Viața.”"],
-    ["Evrei 9, 27","O dată să moară, iar după aceea judecata."],
-    ["Luca 16, 19-31","Bogatul nemilostiv și săracul Lazăr."],
-    ["Matei 24, 14; 30; 36","Semnele sfârșitului; ziua n-o știe nimeni."],
-    ["Matei 25, 31-46","Judecata universală."],
-    ["Iezechiel 37, 1-14","Vedenia oaselor uscate."],
-    ["Daniel 12, 2","Mulți dintre cei ce dorm în țărâna pământului se vor scula."],
-    ["Ioan 17, 3","Ce este viața veșnică."],
-    ["Apocalipsa 21, 1-4","Cer nou și pământ nou."]
+    ["1 Corinteni 15, 14", "Fără Învierea lui Hristos, propovăduirea apostolilor și credința sunt zadarnice."],
+    ["1 Corinteni 15, 20-22", "Hristos este „pârga celor adormiți”: precum în Adam toți mor, așa în Hristos toți vor învia."],
+    ["1 Corinteni 15, 42-44", "Se seamănă trupul întru stricăciune, înviază întru nestricăciune; se seamănă întru necinste, înviază întru slavă; se seamănă întru slăbiciune, înviază întru putere; se seamănă trup firesc, înviază trup duhovnicesc.", "q"],
+    ["1 Corinteni 15, 45", "Făcutu-s-a omul cel dintâi, Adam, cu suflet viu; iar Adam cel de pe urmă cu duh dătător de viață.", "q"],
+    ["1 Corinteni 15, 51-52", "Toți ne vom schimba, deodată, într-o clipeală de ochi, la trâmbița cea de apoi. Căci trâmbița va suna, și morții vor învia nestricăcioși, iar noi ne vom schimba.", "q"],
+    ["Ioan 5, 28-29", "Hristos spune că toți cei din morminte vor învia: cei buni spre viață, cei răi spre osândă."],
+    ["Ioan 11, 25", "Eu sunt învierea și viața; cel ce crede în Mine, chiar dacă va muri, va trăi.", "q"],
+    ["Evrei 9, 27", "Omul moare o singură dată, iar după moarte urmează judecata."],
+    ["Luca 16, 19-31", "Pilda bogatului nemilostiv și a săracului Lazăr: starea sufletelor îndată după moarte."],
+    ["Matei 24, 14; 30; 36", "Semnele sfârșitului; ziua și ceasul nu le știe nimeni."],
+    ["Matei 25, 31-33", "Când va veni Fiul Omului întru slava Sa, și toți sfinții îngeri cu El, atunci va ședea pe tronul slavei Sale. Și se vor aduna înaintea Lui toate neamurile și-i va despărți pe unii de alții, precum desparte păstorul oile de capre. Și va pune oile de-a dreapta Sa, iar caprele de-a stânga.", "q"],
+    ["Matei 25, 34-46", "Criteriul judecății: ce am făcut sau n-am făcut pentru cei flămânzi, însetați, străini, goi, bolnavi și închiși."],
+    ["Iezechiel 37, 1-14", "Vedenia oaselor uscate care se îmbracă din nou în trup și primesc viață."],
+    ["Daniel 12, 2", "Profetul vestește că morții se vor scula, unii spre viața veșnică, alții spre rușine."],
+    ["Ioan 17, 3", "Hristos spune că viața veșnică înseamnă a-L cunoaște pe Dumnezeu și pe Iisus Hristos, pe Care L-a trimis."],
+    ["Apocalipsa 21, 1-4", "Vedenia cerului nou și a pământului nou, unde moartea nu va mai fi."]
   ],
   parinti:[
-    ["Criteriul judecății va fi practicarea sau nepracticarea iubirii de oameni.","Pr. Dumitru Stăniloae, Teologia Dogmatică Ortodoxă (textul din subiectul din 2023)"],
-    ["Dacă El este pârga lor, atunci și ei trebuie neapărat să învieze.","Sf. Ioan Gură de Aur, Omilia 39 la 1 Corinteni (idee redată după traducerea engleză)"],
-    ["Trupul care se ridică este același cu cel semănat, dar mai strălucit. „Semănarea” este înmormântarea, nu nașterea.","Sf. Ioan Gură de Aur, Omilia 41 la 1 Corinteni (rezumat)"],
-    ["Învierea este unirea din nou a sufletului cu trupul. Același trup, stricăcios, va învia nestricăcios, pentru că Cel ce l-a făcut din țărână îl poate ridica din nou.","Sf. Ioan Damaschin, Dogmatica IV, 27 (rezumat)"],
-    ["The body is one thing, corruption is another.","Georges Florovsky, The Gospel of Resurrection, urmând pe Sf. Ioan Gură de Aur"]
+    ["Criteriul judecății va fi practicarea sau nepracticarea iubirii de oameni, care-și are temelia fermă în vederea lui Dumnezeu prin om, în înrădăcinarea lui în Dumnezeu, în înțelegerea semenului ca chip al lui Dumnezeu.", "Pr. Dumitru Stăniloae, Teologia Dogmatică Ortodoxă (din subiectul din 2023)", "q"],
+    ["Dacă Hristos este pârga celor adormiți, atunci și ceilalți trebuie neapărat să învieze: pârga e începutul întregii recolte.", "Sf. Ioan Gură de Aur, Omilia 39 la 1 Corinteni"],
+    ["Trupul care învie este același cu cel semănat, dar mai strălucit. „Semănarea” înseamnă înmormântarea, nu nașterea.", "Sf. Ioan Gură de Aur, Omilia 41 la 1 Corinteni"],
+    ["Învierea este unirea din nou a sufletului cu trupul. Același trup stricăcios va învia nestricăcios, pentru că Cel ce l-a făcut din țărână îl poate ridica din nou.", "Sf. Ioan Damaschin, Dogmatica, cartea a IV-a, cap. 27"],
+    ["Trupul și stricăciunea nu sunt același lucru: la înviere omul leapădă stricăciunea, nu trupul.", "Georges Florovsky, The Gospel of Resurrection, urmând pe Sf. Ioan Gură de Aur"]
   ],
   termeni:[
     ["Eshatologie","Învățătura despre „cele de pe urmă”: moarte, judecată, înviere, viața veșnică."],
@@ -269,7 +270,14 @@ teme: [
     {h:"Ce spun Părinții", p:[
       "Sfântul Ioan Gură de Aur îndeamnă la pomenirea celor adormiți la Sfânta Liturghie și la milostenii pentru ei. Sfântul Chiril al Ierusalimului (Cateheza mistagogică V) spune că rugăciunea adusă la Jertfa euharistică le este de mare folos."]}
   ],
-  biblice:[["2 Macabei 12, 42-45","Jertfă pentru cei morți."],["Luca 20, 38","Dumnezeul celor vii."],["Iacov 5, 16","Rugați-vă unul pentru altul."],["1 Tesaloniceni 4, 13-14","Nădejdea celor ce au adormit."],["Ioan 12, 24","Bobul de grâu."],["2 Timotei 1, 16-18","Rugăciunea pentru Onisifor."]],
+  biblice:[
+    ["2 Macabei 12, 42-45", "Iuda Macabeul aduce jertfă și se roagă pentru ostașii căzuți."],
+    ["Luca 20, 38", "Hristos spune că Dumnezeu nu este al morților, ci al viilor, căci toți trăiesc în El."],
+    ["Iacov 5, 16", "Îndemnul de a ne ruga unii pentru alții."],
+    ["1 Tesaloniceni 4, 13-14", "Să nu ne întristăm pentru cei adormiți ca aceia care nu au nădejde."],
+    ["Ioan 12, 24", "Bobul de grâu care moare în pământ și aduce rod: de aici simbolul colivei."],
+    ["2 Timotei 1, 16-18", "Sfântul Pavel se roagă pentru Onisifor."]
+  ],
   parinti:[],
   termeni:[["Parastas","Slujbă de pomenire a celor adormiți."],["Proscomidie","Pregătirea Darurilor, la care sunt pomeniți viii și adormiții."],["Colivă","Grâu fiert, simbol al învierii."],["Moși","Sâmbetele de pomenire generală a morților."],["Adormiți","Numele creștin al morților: moartea e un somn până la înviere."]],
   idei:["De ce spune Biserica „adormiți”, nu „morți”?","Cum se împacă rugăciunea pentru cei adormiți cu judecata particulară?","De ce pomenirea la Liturghie e mai importantă decât orice alt gest?","Ce legătură este între colivă și 1 Corinteni 15?","De ce nu acceptă Ortodoxia purgatoriul, dar se roagă pentru cei adormiți?"],
@@ -296,8 +304,18 @@ teme: [
     {h:"Ce pot face tinerii", p:[
       "Exemplul personal; sprijinul pentru colegii aflați în dificultate; voluntariat și fapte de milostenie; implicare în parohie și în asociații de tineret; refuzul violenței și al batjocurii; mărturisirea valorii vieții. Asceza (tema 5) este „modelarea de sine” din care pornește totul."]}
   ],
-  biblice:[["Facerea 1, 26-27","Omul, chip al lui Dumnezeu."],["Ieșirea 20, 13","Să nu ucizi."],["1 Corinteni 6, 19-20","Trupul, templu al Duhului Sfânt."],["Ioan 10, 10","Viață din belșug."],["Matei 5, 9; 21-22; 44","Pace, mânie, iubirea vrăjmașilor."],["Romani 12, 21","Biruiește răul cu binele."],["Deuteronomul 32, 39","Viața și moartea sunt la Dumnezeu."]],
-  parinti:[["Un tânăr care ar vrea să se angajeze într-o lucrare, oricare ar fi ea, în Biserică, trebuie mai întâi să se angajeze în lucrarea modelării de sine.","Părintele Teofil Pârâian, „Veniți de luați bucurie” (textul din subiectul din 2025)"]],
+  biblice:[
+    ["Facerea 1, 26-27", "Omul este creat după chipul și asemănarea lui Dumnezeu."],
+    ["Ieșirea 20, 13", "Să nu ucizi.", "q"],
+    ["1 Corinteni 6, 19-20", "Sfântul Pavel numește trupul templu al Duhului Sfânt."],
+    ["Ioan 10, 10", "Hristos a venit ca oamenii să aibă viață din belșug."],
+    ["Matei 5, 9; 21-22; 44", "Fericirea făcătorilor de pace, judecata mâniei, iubirea vrăjmașilor."],
+    ["Romani 12, 21", "Nu te lăsa biruit de rău, ci biruiește răul cu binele.", "q"],
+    ["Deuteronomul 32, 39", "Dumnezeu spune că El este Cel ce dă moartea și viața."]
+  ],
+  parinti:[
+    ["Un tânăr care ar vrea să se angajeze într-o lucrare, oricare ar fi ea, în Biserică, trebuie mai întâi să se angajeze în lucrarea modelării de sine.", "Pr. Teofil Pârâian, „Veniți de luați bucurie” (din subiectul din 2025)", "q"]
+  ],
   termeni:[["Bioetică","Reflecția morală asupra vieții: început, sfârșit, intervenții medicale."],["Eutanasie","Provocarea deliberată a morții unui bolnav."],["Chipul lui Dumnezeu","Temeiul demnității fiecărui om."],["Îngrijire paliativă","Alinarea suferinței bolnavului incurabil, fără a-i grăbi moartea."]],
   idei:["De ce e viața „dar” și nu „proprietate”? Ce se schimbă în funcție de răspuns?","Viața fizică și viața spirituală: cum se apără fiecare?","Cum arată violența în școală și online și ce poate face concret un tânăr?","De ce respinge Biserica eutanasia, dar nu și alinarea durerii?","Ce înseamnă demnitate, dacă nu depinde de sănătate sau succes?","Legătura cu tema 1: cum schimbă credința în înviere felul în care privești suferința și moartea?"],
   biblio:["Bioetică și taina persoanei","Zăgrean, Morala Creștină","Mladin, Teologia Morală Ortodoxă","Logothetis, Răspunsuri la întrebări ale tinerilor","Părăian, Veniți de luați bucurie"],
@@ -323,7 +341,12 @@ teme: [
       "<b>Transilvania și Maramureș</b>: bisericile de lemn din Maramureș (opt în UNESCO, între care Bârsana, Ieud, Șurdești); Biserica Neagră din Brașov (gotic); Catedrala romano-catolică din Alba Iulia (romanic-gotic).",
       "<b>Azi</b>: Catedrala Națională (Catedrala Mântuirii Neamului), București."]}
   ],
-  biblice:[["3 Regi 6, 14-37","Solomon zidește templul și îl împodobește cu aur (textul din subiectul din 2024)."],["Ieșirea 25, 8","„Să-Mi facă locaș sfânt și voi locui în mijlocul lor.”"],["Psalmul 25, 8","„Doamne, iubit-am bunăcuviința casei Tale.”"],["Matei 21, 13","„Casa Mea, casă de rugăciune se va chema.”"]],
+  biblice:[
+    ["3 Regi 6, 14-37", "Solomon zidește templul și îl împodobește cu aur (textul din subiectul din 2024)."],
+    ["Ieșirea 25, 8", "Să-Mi facă locaș sfânt și voi locui în mijlocul lor.", "q"],
+    ["Psalmul 25, 8", "Doamne, iubit-am bunăcuviința casei Tale și locul locașului slavei Tale.", "q"],
+    ["Matei 21, 13", "Casa Mea casă de rugăciune se va chema.", "q"]
+  ],
   parinti:[],
   termeni:[["Pronaos, naos, altar","Cele trei părți ale bisericii ortodoxe."],["Catapeteasmă (iconostas)","Peretele de icoane dintre naos și altar."],["Pantocrator","Hristos „Atotțiitorul”, pictat în cupolă."],["Stil brâncovenesc","Sinteză românească de la 1700: pridvor cu coloane, ornament sculptat bogat."],["Frescă","Pictură pe tencuială udă."]],
   idei:["Ce înseamnă „a pus temelia casei Domnului”? (cerința din 2024)","De ce pictura exterioară a Voronețului are Judecata de Apoi pe peretele de la intrare? (legătura cu tema 1)","Ce spune arhitectura gotică despre Dumnezeu și ce spune cea bizantină?","De ce icoana nu este idol?","Ce face ca stilul moldovenesc și cel brâncovenesc să fie „românești”?","Monumentul ca mărturisire de credință a unui ctitor și a unui neam."],
@@ -350,8 +373,21 @@ teme: [
       "<b>Faptele milei sufletești</b>: a îndrepta pe cel ce greșește; a învăța pe cel neștiutor; a da sfat bun celui ce stă la îndoială; a ne ruga pentru aproapele; a mângâia pe cei întristați; a răbda cu liniște necazurile și nedreptățile; a ierta pe cei ce ne-au greșit.",
       "„Fericiți cei milostivi” <span class='ref'>(Matei 5, 7)</span>. „Mai fericit este a da decât a lua” <span class='ref'>(Faptele Apostolilor 20, 35)</span>. Pilde: samarineanul milostiv <span class='ref'>(Luca 10, 25-37)</span>, banul văduvei <span class='ref'>(Marcu 12, 41-44)</span>."]}
   ],
-  biblice:[["Matei 6, 1-18","Milostenia, rugăciunea, postul."],["Matei 4, 2","Postul lui Hristos."],["Matei 17, 21","Rugăciune și post."],["Isaia 58, 6-7","Postul adevărat."],["1 Tesaloniceni 5, 17","Rugați-vă neîncetat."],["Luca 18, 9-14","Vameșul și fariseul."],["Matei 25, 35-36","Faptele milei trupești."],["Matei 5, 7","Fericiți cei milostivi."]],
-  parinti:[["Postul trupului este hrană pentru suflet.","Sf. Ioan Gură de Aur (citatul din subiectul din 2025)"],["Fiecare om care ne vine în față este un candidat la iubirea noastră.","Pr. Teofil Pârâian, „Veniți de luați bucurie” (textul din subiectul din 2023)"]],
+  biblice:[
+    ["Matei 6, 1-18", "Milostenia, rugăciunea și postul, făcute în ascuns, nu ca să fie văzute de oameni."],
+    ["Matei 6, 17-18", "Tu însă, când postești, unge capul tău și fața ta o spală, ca să nu te arăți oamenilor că postești, ci Tatălui tău, Care este în ascuns, și Tatăl tău, Care vede în ascuns, îți va răsplăti ție.", "q"],
+    ["Matei 4, 2", "Hristos postește patruzeci de zile în pustie."],
+    ["Matei 17, 21", "Hristos spune că unele rele nu se biruiesc decât cu rugăciune și cu post."],
+    ["Isaia 58, 6-7", "Postul adevărat înseamnă și dreptate, și pâine împărțită cu cel flămând."],
+    ["1 Tesaloniceni 5, 17", "Rugați-vă neîncetat.", "q"],
+    ["Luca 18, 9-14", "Pilda vameșului și a fariseului: rugăciunea smerită."],
+    ["Matei 25, 35-36", "Faptele milei trupești, pe care Hristos le socotește făcute Lui."],
+    ["Matei 5, 7", "Fericiți cei milostivi, că aceia se vor milui.", "q"]
+  ],
+  parinti:[
+    ["Postul trupului este hrană pentru suflet.", "Sf. Ioan Gură de Aur (din subiectul din 2025)", "q"],
+    ["Fiecare om care ne vine în față este un candidat la iubirea noastră.", "Pr. Teofil Pârâian, „Veniți de luați bucurie” (din subiectul din 2023)", "q"]
+  ],
   termeni:[["Asceză","Nevoință, exercițiu duhovnicesc."],["Patimă","Obișnuința păcatului, care îl robește pe om."],["Virtute","Deprinderea statornică a binelui."],["Înfrânare","Stăpânirea de sine."],["Milostenie","Iubirea de aproapele arătată în faptă."]],
   idei:["De ce cere Hristos ca toate trei să fie făcute „în ascuns”?","Postul e doar despre mâncare? Ce ar însemna post de la telefon, de la vorbe, de la judecarea altora?","Ce rost are asceza pentru un tânăr care nu e călugăr?","Asceza ca libertate, nu ca interdicție.","Cum se sprijină cele trei una pe alta?","Legătura cu tema 3: omul care se stăpânește pe sine poate apăra viața altuia."],
   biblio:["Schmemann, Postul cel Mare","Costa de Beauregard, Rugați-vă neîncetat","Patericul","Părăian, Veniți de luați bucurie","Catehism (faptele milei)"],
@@ -376,7 +412,14 @@ teme: [
     {h:"Rolul în societatea de azi", p:[
       "Pace și reconciliere; respingerea extremismului și a urii religioase; conlucrare în fapte de ajutorare; apărarea împreună a vieții, a familiei și a libertății religioase; cunoașterea celuilalt, care risipește prejudecățile."]}
   ],
-  biblice:[["Ioan 17, 21-22","Ca toți să fie una."],["Efeseni 4, 3-6","Un Domn, o credință, un botez."],["Ioan 10, 16","O turmă și un păstor."],["Efeseni 4, 15","Adevărul în iubire."],["Matei 5, 9","Fericiți făcătorii de pace."],["Romani 12, 18","Trăiți în pace cu toți oamenii."]],
+  biblice:[
+    ["Ioan 17, 21", "Ca toți să fie una, după cum Tu, Părinte, întru Mine și Eu întru Tine, așa și aceștia în Noi să fie una, ca lumea să creadă că Tu M-ai trimis.", "q"],
+    ["Efeseni 4, 3-6", "Unitatea Bisericii: „un Domn, o credință, un botez”."],
+    ["Ioan 10, 16", "Hristos vorbește despre „o turmă și un păstor”."],
+    ["Efeseni 4, 15", "A mărturisi adevărul în iubire."],
+    ["Matei 5, 9", "Fericiți făcătorii de pace, că aceia fiii lui Dumnezeu se vor chema.", "q"],
+    ["Romani 12, 18", "Îndemnul de a trăi în pace cu toți oamenii, cât depinde de noi."]
+  ],
   parinti:[],
   termeni:[["Ecumenism","Mișcarea pentru refacerea unității creștinilor."],["Sincretism","Amestecul de credințe diferite."],["Prozelitism","Atragerea credincioșilor altei confesiuni prin mijloace necinstite."],["Toleranță","Respectul față de omul de altă credință, fără a-i împărtăși credința."]],
   idei:["Poți dialoga fără să renunți la ce crezi?","Care e diferența dintre unitate și uniformitate?","De ce dezbinarea creștinilor e o problemă de mărturie, nu doar de organizare?","Ce poate face dialogul între religii pentru pace?","Ce înseamnă dialog la nivelul tău: colegi de altă confesiune sau religie?","Legătura cu tema 7: nu poți dialoga cu cineva pe care nu-l cunoști."],
@@ -401,7 +444,12 @@ teme: [
     {h:"Cadrul din România", p:[
       "Statul recunoaște 18 culte (Legea cultelor, 2006). Cultele sunt egale în fața legii și autonome față de stat."]}
   ],
-  biblice:[["Efeseni 4, 5","Un Domn, o credință, un botez."],["Ioan 17, 21","Ca toți să fie una."],["Matei 16, 18","„Pe această piatră voi zidi Biserica Mea.”"],["2 Tesaloniceni 2, 15","„Țineți predaniile”: temeiul Tradiției."]],
+  biblice:[
+    ["Efeseni 4, 5", "Unitatea credinței: „un Domn, o credință, un botez”."],
+    ["Ioan 17, 21", "Rugăciunea lui Hristos pentru unitatea ucenicilor: „ca toți să fie una”."],
+    ["Matei 16, 18", "Pe această piatră voi zidi Biserica Mea și porțile iadului nu o vor birui.", "q"],
+    ["2 Tesaloniceni 2, 15", "Îndemnul de a ține „predaniile”, scrise și nescrise: temeiul Sfintei Tradiții."]
+  ],
   parinti:[],
   termeni:[["Confesiune","Comunitate creștină cu o mărturisire de credință proprie."],["Autocefalie","Independența administrativă a unei Biserici Ortodoxe."],["Filioque","Adaosul apusean la Crez: „și de la Fiul”."],["Sola Scriptura","„Numai Scriptura”, principiu protestant."],["Sfânta Tradiție","Viața Bisericii în Duhul Sfânt, alături de Scriptură."]],
   idei:["Ce au în comun toate confesiunile creștine?","Care sunt cele trei-patru deosebiri pe care trebuie să le poți explica limpede?","De ce contează Tradiția pentru ortodocși și de ce o resping protestanții?","Cum a ajuns Transilvania un loc cu atâtea confesiuni?","Cum vorbești despre deosebiri fără dispreț? (legătura cu tema 6)"],
@@ -423,7 +471,10 @@ teme: [
       "<b>Mircea Eliade</b> (1907-1986), istoric al religiilor. „Sacrul și profanul”; „Istoria credințelor și ideilor religioase”. Omul este, prin fire, <i>homo religiosus</i>.",
       "<b>Constantin Brâncuși</b> (1876-1957), sculptor. Ansamblul de la Târgu Jiu: Masa Tăcerii, Poarta Sărutului, Coloana fără Sfârșit; „Rugăciune” (1907)."]}
   ],
-  biblice:[["Matei 5, 14-16","„Voi sunteți lumina lumii.”"],["Matei 10, 32","Mărturisirea lui Hristos înaintea oamenilor."]],
+  biblice:[
+    ["Matei 5, 14-16", "„Voi sunteți lumina lumii”: credința se arată prin fapte și prin viață."],
+    ["Matei 10, 32", "Hristos îl va mărturisi înaintea Tatălui pe cel ce Îl mărturisește înaintea oamenilor."]
+  ],
   parinti:[],
   termeni:[["Homo religiosus","Omul ca ființă deschisă prin fire către sacru (Eliade)."],["Filocalie","„Iubire de frumusețe”: culegere de scrieri duhovnicești."],["Gândirism","Curent cultural interbelic care așază Ortodoxia în centrul culturii române."]],
   idei:["Poate fi cultura o formă de mărturisire a credinței?","Ce au în comun Steinhardt, Țuțea, Voiculescu și Stăniloae? Credința încercată în închisoare.","Cum vorbește Brâncuși despre veșnicie fără cuvinte? (legătura cu temele 1 și 4)","De ce spune Steinhardt că a găsit fericirea în închisoare?"],

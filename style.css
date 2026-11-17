@@ -189,10 +189,17 @@ a.card:hover{border-color:var(--line2);transform:translateY(-2px);box-shadow:0 1
 .tbl td.ref{white-space:nowrap;width:1%}
 .tbl td.pts{text-align:right;white-space:nowrap;font-weight:600;color:var(--ink);font-variant-numeric:tabular-nums;width:1%}
 
-.quote{position:relative;margin:0 0 12px;padding:22px 24px 20px 66px;background:var(--card);border:1px solid var(--line);border-radius:var(--r)}
-.quote::before{content:"„";position:absolute;left:20px;top:-22px;font:500 80px/1 var(--serif);color:var(--red)}
-.quote p{font:italic 400 20px/1.5 var(--serif);color:var(--ink);margin:0 0 8px}
+.legend-note{font-size:14px;color:var(--muted);margin:0 0 12px}
+.legend-note .quoted{font-size:15.5px}
+.quoted{font:italic 400 18px/1.5 var(--serif);color:var(--ink)}
+.quote{margin:0 0 12px;padding:18px 22px;background:var(--card);border:1px solid var(--line);border-left:3px solid var(--red);border-radius:var(--r)}
+.quote .kind{display:block;font:600 11px/1 var(--sans);letter-spacing:.11em;text-transform:uppercase;color:var(--red);margin-bottom:10px}
+.quote p{margin:0 0 8px}
+.quote p.quoted{font-size:20px}
 .quote cite{font:normal 13.5px/1.4 var(--sans);color:var(--muted)}
+.quote.idea{border-left-color:var(--line2)}
+.quote.idea .kind{color:var(--muted)}
+.quote.idea p{font-size:16.5px;color:var(--ink2)}
 
 .terms{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
 .term{padding:16px 18px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
@@ -314,8 +321,7 @@ footer p{margin:0}
   .mark{margin-left:46px}
   .lead{font-size:19px}
   .prose p{font-size:16.5px}
-  .quote{padding:20px 18px 18px 52px}
-  .quote::before{left:14px;font-size:66px;top:-18px}
+  .quote{padding:16px 16px}
   .pts-bar span{display:none}
   .pts-bar div{padding:0 10px}
   .pn{grid-template-columns:1fr}

@@ -36,6 +36,9 @@ const link = id => D.links.find(l => l.id === id);
 const tema = n => D.teme.find(t => t.n === n);
 const label = t => t.nat ? "Națională" : "Tema " + t.n;
 const ANI = D.subiecte.map(a => a.an).sort();
+const LEGEND = `<p class="legend-note"><span class="quoted">„între ghilimele”</span> = citat exact · fără ghilimele = explicat pe scurt</p>`;
+const CER_NOTE = `<p class="legend-note">Cerințele de la Subiectul I și reperele eseului sunt copiate din subiect. Enunțul de la Subiectul II e prescurtat.</p>`;
+const startText = s => s.text.startsWith("Fără") ? s.text : `Pornind de la: ${s.text}`;
 
 /* ---------- progres ---------- */
 function secsOf(t){
@@ -161,12 +164,14 @@ const views = {
     const body = {
       pe_scurt: `<p class="lead">${t.pe_scurt}</p>`,
       lectie: `<div class="prose">${t.lectie.map(l => `<h3>${l.h}</h3>${l.p.map(x => `<p>${x}</p>`).join("")}`).join("")}</div>`,
-      biblice: `<div class="tablebox"><table class="tbl"><tr><th>Locul</th><th>Ce spune</th></tr>${t.biblice.map(b => `<tr><td class="ref">${b[0]}</td><td>${b[1]}</td></tr>`).join("")}</table></div>`,
-      parinti: t.parinti.map(q => `<figure class="quote"><p>${q[0]}</p><cite>${q[1]}</cite></figure>`).join(""),
+      biblice: `${LEGEND}<div class="tablebox"><table class="tbl"><tr><th>Locul</th><th>Ce găsești acolo</th></tr>${t.biblice.map(b => `<tr><td class="ref">${b[0]}</td><td>${b[2] === "q" ? `<span class="quoted">„${b[1]}”</span>` : b[1]}</td></tr>`).join("")}</table></div>`,
+      parinti: LEGEND + t.parinti.map(q => q[2] === "q"
+        ? `<figure class="quote"><span class="kind">Citat</span><p class="quoted">„${q[0]}”</p><cite>${q[1]}</cite></figure>`
+        : `<figure class="quote idea"><span class="kind">Ideea, pe scurt · nu e citat</span><p>${q[0]}</p><cite>După ${q[1]}</cite></figure>`).join(""),
       termeni: `<div class="terms">${t.termeni.map(x => `<div class="term"><b>${x[0]}</b><span>${x[1]}</span></div>`).join("")}</div>`,
       idei: `<ol class="ideas">${t.idei.map(i => `<li>${i}</li>`).join("")}</ol>`,
       cerut: cerute.length
-        ? cerute.map(c => `<div class="subj"><div class="subj-h"><b>${c.an} · Subiectul ${c.s.n}</b><span class="tag">${c.s.p} de puncte</span></div><p class="muted small">${c.s.text}</p><table class="tbl">${c.s.cer.map(x => `<tr><td>${x[0]}</td><td class="pts">${x[1]}</td></tr>`).join("")}</table></div>`).join("")
+        ? CER_NOTE + cerute.map(c => `<div class="subj"><div class="subj-h"><b>${c.an} · Subiectul ${c.s.n}</b><span class="tag">${c.s.p} de puncte</span></div><p class="muted small">${startText(c.s)}</p><table class="tbl">${c.s.cer.map(x => `<tr><td>${x[0]}</td><td class="pts">${x[1]}</td></tr>`).join("")}</table></div>`).join("")
         : `<p class="muted">${t.cerut}</p>`,
       surse: (src.length ? `<div class="srcs">${src.map(srcRow).join("")}</div>` : "")
         + (biblio.length ? `<div class="card" style="margin-top:14px"><h3>Din bibliografia oficială</h3><ul class="list">${biblio.map(b => `<li>${b}</li>`).join("")}</ul></div>` : "")
@@ -261,12 +266,13 @@ const views = {
       ${judet.map(t => `<tr><td><a href="#/tema/${t.n}" style="text-decoration:none;color:var(--ink);font-weight:500">${t.n}. ${t.scurt}</a></td>${ANI.map(an => `<td>${cell(t.n, an)}</td>`).join("")}<td class="pts">${count(t.n)} din ${ANI.length}</td></tr>`).join("")}
     </table></div>
     <p class="muted small" style="margin-top:10px">S. = Subiectul. Tema 1 și tema 5 au apărut în fiecare an. Subiectele din 2019-2022 nu le-am găsit online.</p>
+    <div style="margin-top:28px">${CER_NOTE}</div>
     ${D.subiecte.map(a => `
       <h2>${a.an}</h2>
       <p class="muted" style="margin:-8px 0 16px">Etapa județeană, ${a.data} · <a href="${link(a.link).url}" target="_blank" rel="noopener noreferrer">documentul original</a></p>
       ${a.s.map(s => `<div class="subj">
         <div class="subj-h"><b>Subiectul ${s.n} · ${s.p} de puncte</b><div class="tags">${s.teme.map(n => `<a class="tag" href="#/tema/${n}">Tema ${n}</a>`).join("")}</div></div>
-        <p class="muted small">${s.text}</p>
+        <p class="muted small">${startText(s)}</p>
         <table class="tbl">${s.cer.map(x => `<tr><td>${x[0]}</td><td class="pts">${x[1]}</td></tr>`).join("")}</table>
       </div>`).join("")}`).join("")}`;
   },

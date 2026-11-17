@@ -92,7 +92,6 @@ const temaRow = t => `
   <a class="row" href="#/tema/${t.n}">
     <span class="n">${t.nat ? "N" : t.n}</span>
     <span class="main"><span class="t">${t.scurt}</span><span class="s">${t.when}${t.est ? " · estimativ" : ""}${t.stare === "complet" ? "" : " · schiță"}</span></span>
-    <span class="pcol">${progHTML(prog(t))}</span>
     <span class="go">${I.arrow}</span>
   </a>`;
 
@@ -123,7 +122,6 @@ const views = {
         <p class="kicker">${live ? "Săptămâna aceasta" : "Urmează"} · ${c.when}</p>
         <h3>${t.scurt}</h3>
         <p class="muted clamp">${t.pe_scurt}</p>
-        ${progHTML(prog(t))}
       </a>
       <div class="card facts">
         <div class="fact"><span>Durata probei</span><b>3 ore</b></div>
@@ -133,7 +131,7 @@ const views = {
       </div>
     </div>
 
-    <div class="h2row"><h2>Teme</h2><span class="muted small">Parcurs în total: ${progAll()}%</span></div>
+    <h2>Teme</h2>
     <div class="rows">${D.teme.map(temaRow).join("")}</div>
 
     <h2>Organizare</h2>
@@ -184,15 +182,13 @@ const views = {
     <div class="doc">
       <aside class="toc" aria-label="Cuprins">
         <p>Cuprins</p>
-        <div class="list">${secs.map(([k,l]) => `<button type="button" data-goto="s-${k}" data-s="${k}" class="${done(k) ? "done" : ""}"><span class="dot"></span>${l}</button>`).join("")}</div>
-        ${progHTML(prog(t), "tbar")}
+        <div class="list">${secs.map(([k,l]) => `<button type="button" data-goto="s-${k}" data-s="${k}">${l}</button>`).join("")}</div>
       </aside>
       <div class="content">
         ${secs.map(([k,l], j) => `
         <section class="sec" id="s-${k}">
           <div class="sec-h">
             <span class="rn">${ROMAN[j]}.</span><h2>${l}</h2>
-            <button class="mark" type="button" data-k="p-${t.n}-${k}" aria-pressed="${done(k)}"><span class="ck"></span><span class="lbl">${done(k) ? "Parcurs" : "Marchează parcurs"}</span></button>
           </div>
           ${body[k]}
         </section>`).join("")}
@@ -341,18 +337,6 @@ function route(){
 app.addEventListener("click", e => {
   const go = e.target.closest("[data-goto]");
   if(go){ const s = document.getElementById(go.dataset.goto); if(s) s.scrollIntoView({behavior:"smooth", block:"start"}); return; }
-
-  const m = e.target.closest(".mark");
-  if(m){
-    const on = m.getAttribute("aria-pressed") !== "true", k = m.dataset.k;
-    store.set(k, on ? "1" : "0");
-    m.setAttribute("aria-pressed", String(on));
-    m.querySelector(".lbl").textContent = on ? "Parcurs" : "Marchează parcurs";
-    const tb = app.querySelector(`.toc button[data-s="${k.split("-").slice(2).join("-")}"]`);
-    if(tb) tb.classList.toggle("done", on);
-    refreshProg(+k.split("-")[1]);
-    return;
-  }
 
   const c = e.target.closest("#chips button");
   if(c){
